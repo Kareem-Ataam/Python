@@ -1,0 +1,10 @@
+What is the name of the computer's brain? - Processor
+What is the abbreviation for Read Only Memory? - ROM
+What is the name of the main circuit board in the computer? - Motherboard
+What is the name of the type of storage that has moving parts? - Hard Disk Drive
+What is the name of the connector that connects the computer to the internet? - Ethernet
+What is the name of the type of storage that has no moving parts? - Solid State Drive
+What is the name of the software that manages hardware and software resources? - Operating System
+What is the abbreviation for Central Processing Unit? - CPU
+What is the name of the device used to point and click on the screen? - Mouse
+What is the abbreviation for Random Access Memory? - RAM
