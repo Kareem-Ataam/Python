@@ -36,7 +36,7 @@ while True:
                 print("Computer also chose scissors, no one win")
         case "q":
             break
-        case "_":
+        case _:
             print("Invalid Option")
 if user_score > computer_score:
     print(f"Your score:    {user_score} \U0001F947")
